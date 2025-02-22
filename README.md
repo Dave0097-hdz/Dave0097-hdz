@@ -108,5 +108,3 @@ I specialize in building RESTful APIs to provide seamless communication between 
 - **Postman**: For API testing and integration.
 
 ---
-
-## 🐍 A Snake Eating my Contributions Graph
