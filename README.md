@@ -99,7 +99,6 @@
 I specialize in building RESTful APIs to provide seamless communication between clients and servers. My approach ensures efficiency, security, and scalability, using tools like:
 
 - **Node.js/Express**: Backend development for creating efficient REST APIs.
-- **Django**: Leveraging the Django REST framework for full-featured APIs.
 - **Postman**: For API testing and integration.
 
 ---
