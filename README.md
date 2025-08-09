@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I'm a `Junior` at Technological University of the Jungle.
+- :school: Universidad Tecnológica de la Selva
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I'm always learning about `Website` and `Mobile app Development`. 
 - :nerd_face: Always `learning new things`.
