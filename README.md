@@ -1,104 +1,90 @@
-<h1 align="center">Hi, I'm David Chavarria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Dave0097-hdz/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
+### 👋 Hi there, I'm David C.H!
 
-<br>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-- :school: Universidad Tecnológica de la Selva
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I'm always learning about `Website` and `Mobile app Development`. 
-- :nerd_face: Always `learning new things`.
-
-<br>
-
-## 🛠️ My Skills
-
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?style=plastic&logo=PHP&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="DART" src="https://img.shields.io/badge/DART%20-%232370ED.svg?style=plastic&logo=DART&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-</p>
-
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px></picture> Frontend Development
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER%20-%232370ED.svg?style=plastic&logo=FLUTTER&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-</p>
-
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px></picture> Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> IDEs
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
-</p>
-
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-<br>
+> *"Being strong doesn't mean being perfect. It means never stopping trying."*
 
 ---
 
-## 🌐 Building REST APIs
-
-I specialize in building RESTful APIs to provide seamless communication between clients and servers. My approach ensures efficiency, security, and scalability, using tools like:
-
-- **Node.js/Express**: Backend development for creating efficient REST APIs.
-- **Postman**: For API testing and integration.
+<table>
+  <tr>
+	  <td width="60%" valing="top" aling="justify">
+		  <p>
+			  I'm <b>Software Development and Management Enginner<b> with hands-on experience in Backend and Full-Stack development, </b> covering web, mobile and reality solutions.  
+			  Skilled in designing <b> and implementing scalable REST APIs</b>, database optimization, and delivering IoT-based applications.  
+			  Experienced in PHP, <b>Node.js, and Flutter</b>, with a strong background in process automation and <b>agile methodologies</b>.  
+			  Passionate about creating solutions that improve operational efficiency, enhance user experience, and generate measurable results.
+		  </p>
+		  <ul>
+			  <li>📘 I like love coding</li>
+			  <li>💻 I am currently learning backend and frontend development</li>
+			  <li>🔧 I am looking to collaborate on group and open source projects</li>
+			  <li>🚀 I want to become a full-stack developer</li>
+		  </ul>
+	  </td>
+    <td colspan="2" align="center" width="60%" valign="top">
+      <img src="https://github.com/user-attachments/assets/483c182c-d817-4735-8168-1c4aff764dc1" alt="coding room" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<h4>I'm focused on backend and frontend development. 😎</h4>
+<h4>🔧 Preferred stack: Node - Express - Docker.</h4>
+<h4>🔹 Looking for challenges that make me grow and projects that generate impact.</h4>
+
+---
+<h2>🧠 Skills I use to build.</h2>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+<table>
+  <tr><th colspan="2"><h3>🈷️ Most Used Lenguajes</h3></th></tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0097-hdz&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>📊 GitHub Analytics</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dave0097-hdz&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+---
+
+# Contacto
+
+¿Charlamos? Aquí me encuentras:
+
+<a href="https://www.linkedin.com/in/david-hernandez-dev/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:david087hdz@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+</a>
