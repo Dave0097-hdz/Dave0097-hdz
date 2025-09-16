@@ -17,7 +17,7 @@
 			  <li>📘 I like love coding</li>
 			  <li>💻 I am currently learning backend and frontend development</li>
 			  <li>🔧 I am looking to collaborate on group and open source projects</li>
-			  <li>🚀 I want to become a full-stack developer</li>
+			  <li>🚀 Always learning new things</li>
 		  </ul>
 	  </td>
     <td colspan="2" align="center" width="60%" valign="top">
