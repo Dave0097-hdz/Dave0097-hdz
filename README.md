@@ -8,15 +8,15 @@
   <tr>
 	  <td width="60%" valing="top" aling="justify">
 		  <p>
-			  I'm <b>Software Development and Management Enginner<b> with hands-on experience in Backend and Full-Stack development, </b> covering web, mobile and reality solutions.  
+			  I'm a <b>Software Development and Management Enginner<b> with hands-on experience in Backend and Full-Stack development, </b> covering web, mobile and reality solutions.  
 			  Skilled in designing <b> and implementing scalable REST APIs</b>, database optimization, and delivering IoT-based applications.  
 			  Experienced in PHP, <b>Node.js, and Flutter</b>, with a strong background in process automation and <b>agile methodologies</b>.  
 			  Passionate about creating solutions that improve operational efficiency, enhance user experience, and generate measurable results.
 		  </p>
 		  <ul>
-			  <li>📘 I like love coding</li>
-			  <li>💻 I am currently learning backend and frontend development</li>
-			  <li>🔧 I am looking to collaborate on group and open source projects</li>
+			  <li>📘 I love coding and continuous learning.</li>
+			  <li>💻 Currently deepening my skills in backend & frontend development.</li>
+			  <li>🔧 Open to collaborating on group projects and open-source contributions.</li>
 			  <li>🚀 Always learning new things</li>
 		  </ul>
 	  </td>
@@ -30,7 +30,7 @@
 
 <h4>I'm focused on backend and frontend development. 😎</h4>
 <h4>🔧 Preferred stack: Node - Express - Docker.</h4>
-<h4>🔹 Looking for challenges that make me grow and projects that generate impact.</h4>
+<h4>🔹 Looking for challenges that help me grow and projects that generate real impact.</h4>
 
 ---
 <h2>🧠 Skills I use to build.</h2>
@@ -78,9 +78,9 @@
 
 ---
 
-# Contacto
+# 📬 Contact
 
-¿Charlamos? Aquí me encuentras:
+Let’s connect and collaborate!  
 
 <a href="https://www.linkedin.com/in/david-hernandez-dev/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
