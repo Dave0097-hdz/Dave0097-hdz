@@ -63,7 +63,7 @@
   <tr><th colspan="2"><h3>🈷️ Most Used Lenguajes</h3></th></tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0097-hdz&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e">
+      <img src="https://github-readme-stats-three-eta-60.vercel.app/api/top-langs/?username=Dave0097-hdz&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e">
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dave0097-hdz&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Akhil's GitHub stats](https://github-readme-stats-three-eta-60.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ---
 
