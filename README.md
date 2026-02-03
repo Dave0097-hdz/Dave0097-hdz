@@ -72,8 +72,6 @@
 
 <h3>📊 GitHub Analytics</h3>
 
-[![GitHub Streak](https://github-readme-streak-6jdk.vercel.app?user=Dave0097-hdz&theme=dark)](https://git.io/streak-stats)
-
 ![David's GitHub stats](https://github-readme-stats-three-eta-60.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bol[...])
 
 ---
