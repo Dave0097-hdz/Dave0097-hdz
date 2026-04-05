@@ -1,38 +1,37 @@
-### 👋 Hi there, I'm David C.H!
+<!-- 🔥 BANNER -->
+<p align="center">
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/77605439-646e-4f47-af92-85598f8d25c1" />
+</p>
 
-> *"Being strong doesn't mean being perfect. It means never stopping trying."*
+<h1 align="center">👋 Hi, I'm David Hernández</h1>
+
+## 🚀 About Me
+
+I'm a **Software Development & Management Engineer** with hands-on experience in **Backend and Full-Stack development**, building scalable solutions across web and mobile platforms.
+
+I specialize in:
+- ⚙️ Designing and developing **REST APIs**
+- 🗄️ Database architecture & optimization
+- 📱 Mobile development with **Flutter**
+- 🔌 Backend systems with **Node.js & Express**
+- 🤖 Process automation & AI integration
+
+I focus on building **real-world solutions** that improve efficiency, enhance user experience, and deliver measurable results.
+
+---
+
+## 🧠 What I'm Doing
+
+- 💻 Improving my skills in **Full Stack Development**
+- 🚀 Building scalable backend systems
+- 🔧 Working on real-world projects (AgroSig, hotel systems, IoT)
+- 🤝 Open to collaborations and open-source
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valing="top" aling="justify">
-        <p>
-            I'm a <b>Software Development and Management Enginner<b> with hands-on experience in Backend and Full-Stack development, </b> covering web, mobile and reality solutions.  
-            Skilled in designing <b> and implementing scalable REST APIs</b>, database optimization, and delivering IoT-based applications.  
-            Experienced in PHP, <b>Node.js, and Flutter</b>, with a strong background in process automation and <b>agile methodologies</b>.  
-            Passionate about creating solutions that improve operational efficiency, enhance user experience, and generate measurable results.
-        </p>
-        <ul>
-            <li>📘 I love coding and continuous learning.</li>
-            <li>💻 Currently deepening my skills in backend & frontend development.</li>
-            <li>🔧 Open to collaborating on group projects and open-source contributions.</li>
-            <li>🚀 Always learning new things</li>
-        </ul>
-    </td>
-    <td colspan="2" align="center" width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/483c182c-d817-4735-8168-1c4aff764dc1" alt="coding room" width="400"/>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
 
----
-<h4>I'm focused on backend and frontend development. 😎</h4>
-<h4>🔧 Preferred stack: Node - Express - Docker.</h4>
-<h4>🔹 Looking for challenges that help me grow and projects that generate real impact.</h4>
----
-<h2>🧠 Skills I use to build.</h2>
-<p>
+<p align"center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -59,30 +58,29 @@
 
 ---
 
-<table>
-  <tr><th colspan="2"><h3>🈷️ Most Used Lenguajes</h3></th></tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-three-eta-60.vercel.app/api/top-langs/?username=Dave0097-hdz&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=fb4362&text_color[...]" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-three-eta-60.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362" />
+</p>
 
 ---
 
-<h3>📊 GitHub Analytics</h3>
+## 🧠 Most Used Languages
 
-![David's GitHub stats](https://github-readme-stats-three-eta-60.vercel.app/api?username=Dave0097-hdz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bol[...])
+<p align="center">
+  <img src="https://github-readme-stats-three-eta-60.vercel.app/api/top-langs/?username=Dave0097-hdz&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=fb4362&text_color=ffffff" />
+</p>
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
-Let’s connect and collaborate!  
-
-<a href="https://www.linkedin.com/in/david-hernandez-dev/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="mailto:david087hdz@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-hernandez-dev/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+  </a>
+  <a href="mailto:david087hdz@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
+  </a>
+</p>
