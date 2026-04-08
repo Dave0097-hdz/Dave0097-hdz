@@ -3,7 +3,7 @@
   <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/77605439-646e-4f47-af92-85598f8d25c1" />
 </p>
 
-<h1 align="center">👋 Hi, I'm David Hernández</h1>
+<h1 align="center">👋 Hi, I'm David Chavarría</h1>
 
 ## 🚀 About Me
 
