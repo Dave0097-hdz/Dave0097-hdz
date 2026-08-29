@@ -80,7 +80,7 @@ Here is a curated selection of my engineering work, highlighting architectural p
 
 ### 🧠 Current Learning Focus
 *   **DevOps:** Mastering CI/CD pipelines (GitHub Actions), infrastructure as code (IaC), and container orchestration.
-*   **Cloud Architecture:** Pursuing **AWS Cloud Practitioner** (exam in Ago 2026) to expand on my Google Cloud Computing Foundations experience.
+*   **Cloud Architecture:** Designing cloud architectures utilizing my **AWS Certified Cloud Practitioner** & **Google Cloud Computing Foundations** credentials to build resilient, serverless, and auto-scaling systems.
 *   **Advanced Patterns:** Studying system design scalability, microservices, and event-driven architectures.
 
 ---
@@ -92,4 +92,5 @@ I'm always looking for opportunities to collaborate on open-source codebases, jo
 *   💬 **Let's talk about:** Backend architectures, Node.js/NestJS, SQL performance, and cloud migrations.
 *   📧 **Direct Contact:** [david.087.hdz@gmail.com](mailto:david.087.hdz@gmail.com)
 *   💼 **LinkedIn:** [david-hernandez-dev](https://linkedin.com/in/david-hernandez-dev)
+*   🎓 **Credly Badges:** [My Certifications Profile](https://www.credly.com/users/david-hernandez.8389eb25)
 *   🌐 **Portafolio:** [David Chavarría Dev](https://davidchavarria-portafolio.vercel.app/)
